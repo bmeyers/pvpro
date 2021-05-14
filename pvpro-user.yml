@@ -36,3 +36,4 @@ dependencies:
     - scs
     - xlrd
     - NREL-pysam
+    - pvanalytics
