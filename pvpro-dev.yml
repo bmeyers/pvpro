@@ -1,4 +1,4 @@
-name: pvpro-user
+name: pvpro-dev
 channels:
   - defaults
   - anaconda
